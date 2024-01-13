@@ -8,11 +8,11 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>process_order</groupId>
-	<artifactId>process_order</artifactId>
+	<groupId>testOrder</groupId>
+	<artifactId>testProcessOrder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>process_order</name>
-	<description>practice about process order or booking</description>
+	<name>testProcessOrder</name>
+	<description>Test one to many</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
